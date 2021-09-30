@@ -4,7 +4,7 @@
 
 .grocery {
     margin: 2rem 0;
-    border: 1px dotted darkgoldenrod;
+    border: 1px dotted crimson;
     display: flex;
     flex-direction: row;
 }
