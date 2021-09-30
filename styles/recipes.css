@@ -1,0 +1,10 @@
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.recipe {
+    flex-basis: 33%;
+    border: 1px dotted darkgoldenrod;
+}

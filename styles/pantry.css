@@ -1,0 +1,10 @@
+.pantryList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.pantryItem {
+    flex-basis: 33%;
+    border: 1px dotted darkgoldenrod;
+}

@@ -1,0 +1,19 @@
+.shoppingList {
+    display: block;
+}
+
+.grocery {
+    margin: 2rem 0;
+    border: 1px dotted darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+}
+
+.grocery__name {
+    flex: 4;
+}
+
+.grocery__count {
+    flex: 1;
+
+}
